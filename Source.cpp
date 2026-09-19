@@ -1,6 +1,9 @@
 #include<iostream>
+#include "Biblioteca.h"
+#include "Libro.h"
+using namespace std;
 
 int main()
 {
-	std::cout << "Hola";
+	cout << "Holi :3" << endl;
 }

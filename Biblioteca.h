@@ -59,3 +59,56 @@ void Biblioteca::agregar_libro(Libro* plibro)
 	libro = temporal;
 
 }
+
+void Biblioteca::listar_libros()
+{
+	if (cantidad == 0)
+	{
+		cout << "No hay libros registrados." << endl;
+		return;
+	}
+
+	cout << endl << "Pos\tCodigo\t\tTitulo\t\tAutor\t\tCategoria\t\tAnio\t\tPrecio" << endl;
+	
+	for (int i = 0; i < cantidad; i++)
+	{
+		cout << i << "\t" << libro[i]->getcodigo() << "\t\t" << libro[i]->gettitulo() << "\t\t" << libro[i]->getautor() << "\t\t" << libro[i]->getcategoria() << "\t\t" << libro[i]->getanio() << "\t\t" << libro[i]->getprecio() << endl;
+	}
+}
+
+Libro* Biblioteca::obtener_libros(int codigo)
+{
+	for (int i = 0; i < cantidad; i++)
+	{
+		if (libro[i]->getcodigo() == codigo)
+		{
+			return libro[i];
+		}
+	}
+
+	return nullptr;
+
+}
+
+void Biblioteca::reporte_categoria(string categoria)
+{
+	for (int i = 0; i < cantidad; i++)
+	{
+		if (libro[i]->getcategoria() == categoria)
+		{
+			cout << i << "\t" << libro[i]->getcategoria() << endl;
+		}
+
+	}
+}
+
+void Biblioteca::reporte_anio(int anio)
+{
+	for (int i = 0; i < cantidad; i++)
+	{
+		if (libro[i]->getanio() > anio)
+		{
+			cout << i << "\t" << libro[i]->getanio() << endl;
+		}
+	}
+}
