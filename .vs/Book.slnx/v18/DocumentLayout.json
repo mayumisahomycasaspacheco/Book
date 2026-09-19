@@ -36,9 +36,22 @@
               "RelativeDocumentMoniker": "Source.cpp",
               "ToolTip": "C:\\Users\\YUYU\\Desktop\\Book\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-18T21:00:58.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.h",
+              "DocumentMoniker": "C:\\Users\\YUYU\\Desktop\\Book\\Libro.h",
+              "RelativeDocumentMoniker": "Libro.h",
+              "ToolTip": "C:\\Users\\YUYU\\Desktop\\Book\\Libro.h",
+              "RelativeToolTip": "Libro.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-18T00:10:21.268Z",
               "EditorCaption": ""
             },
             {
@@ -52,19 +65,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-09-18T03:39:15.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Libro.h",
-              "DocumentMoniker": "C:\\Users\\YUYU\\Desktop\\Book\\Libro.h",
-              "RelativeDocumentMoniker": "Libro.h",
-              "ToolTip": "C:\\Users\\YUYU\\Desktop\\Book\\Libro.h",
-              "RelativeToolTip": "Libro.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-09-18T00:10:21.268Z",
               "EditorCaption": ""
             }
           ]
