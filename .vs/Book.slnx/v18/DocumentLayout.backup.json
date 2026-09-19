@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\YUYU\\Desktop\\Book\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{536F9431-4E4B-EDF0-1A62-52253F957750}|Book.vcxproj|C:\\Users\\YUYU\\Desktop\\Book\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536F9431-4E4B-EDF0-1A62-52253F957750}|Book.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{536F9431-4E4B-EDF0-1A62-52253F957750}|Book.vcxproj|C:\\Users\\YUYU\\Desktop\\Book\\Libro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{536F9431-4E4B-EDF0-1A62-52253F957750}|Book.vcxproj|solutionrelative:Libro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536F9431-4E4B-EDF0-1A62-52253F957750}|Book.vcxproj|C:\\Users\\YUYU\\Desktop\\Book\\Biblioteca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536F9431-4E4B-EDF0-1A62-52253F957750}|Book.vcxproj|solutionrelative:Biblioteca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\YUYU\\Desktop\\Book\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\YUYU\\Desktop\\Book\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-18T21:00:58.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Libro.h",
               "DocumentMoniker": "C:\\Users\\YUYU\\Desktop\\Book\\Libro.h",
               "RelativeDocumentMoniker": "Libro.h",
               "ToolTip": "C:\\Users\\YUYU\\Desktop\\Book\\Libro.h",
               "RelativeToolTip": "Libro.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-09-18T00:10:21.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Biblioteca.h",
+              "DocumentMoniker": "C:\\Users\\YUYU\\Desktop\\Book\\Biblioteca.h",
+              "RelativeDocumentMoniker": "Biblioteca.h",
+              "ToolTip": "C:\\Users\\YUYU\\Desktop\\Book\\Biblioteca.h",
+              "RelativeToolTip": "Biblioteca.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-18T03:39:15.465Z",
               "EditorCaption": ""
             }
           ]
