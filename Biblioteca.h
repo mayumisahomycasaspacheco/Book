@@ -64,12 +64,12 @@ void Biblioteca::listar_libros()
 {
 	if (cantidad == 0)
 	{
-		cout << "No hay libros registrados." << endl;
+		cout << "No books registered." << endl;
 		return;
 	}
 
-	cout << endl << "Pos\tCodigo\t\tTitulo\t\tAutor\t\tCategoria\t\tAnio\t\tPrecio" << endl;
-	
+	cout << endl << "Pos\tCode\t\tTitle\t\tAuthor\t\tCategory\t\tYear\t\tPrice" << endl;
+
 	for (int i = 0; i < cantidad; i++)
 	{
 		cout << i << "\t" << libro[i]->getcodigo() << "\t\t" << libro[i]->gettitulo() << "\t\t" << libro[i]->getautor() << "\t\t" << libro[i]->getcategoria() << "\t\t" << libro[i]->getanio() << "\t\t" << libro[i]->getprecio() << endl;
